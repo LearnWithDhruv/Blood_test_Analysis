@@ -1,0 +1,8 @@
+{
+    "search_engine_url": "https://www.google.com/search?q=",
+    "blood_test_thresholds": {
+      "cholesterol": 200,
+      "glucose": 100
+    }
+  }
+  

@@ -1,0 +1,142 @@
+{
+    "findings": {
+        "cholesterol": "Normal cholesterol level. Your level is 105.0 mg/dL.",
+        "glucose": "Normal glucose level. Your level is 90.0 mg/dL.",
+        "hemoglobin": "Normal hemoglobin level. Your level is 15.0 g/dL.",
+        "vitamin_d": "Low vitamin D levels detected. Your level is 10.0 ng/mL, which is below the normal range (30 - 100 ng/mL)."
+    },
+    "recommendations": {
+        "cholesterol": {
+            "summary": "Normal cholesterol level. Your level is 105.0 mg/dL.",
+            "advice": "Consider adopting a low-cholesterol diet, including foods rich in fiber such as oats, beans, and fruits. Regular exercise can also help lower cholesterol levels.",
+            "articles": [
+                {
+                    "title": "Cholesterol - healthy eating tips - Better Health Channel",
+                    "link": "/url?q=https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/cholesterol-healthy-eating-tips&sa=U&ved=2ahUKEwiMmK-t38mHAxUwsFYBHTjGI6wQFnoECAkQAg&usg=AOvVaw2qifCmPZVBdR78sJbcyaJH"
+                },
+                {
+                    "title": "Top 5 lifestyle changes to improve your cholesterol - Mayo Clinic",
+                    "link": "/url?q=https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/in-depth/reduce-cholesterol/art-20045935&sa=U&ved=2ahUKEwiMmK-t38mHAxUwsFYBHTjGI6wQFnoECAoQAg&usg=AOvVaw13FjYzO2kqIOd1Fkbuzd66"
+                },
+                {
+                    "title": "10 Natural Ways to Lower Your Cholesterol Levels - Healthline",
+                    "link": "/url?q=https://www.healthline.com/nutrition/how-to-lower-cholesterol&sa=U&ved=2ahUKEwiMmK-t38mHAxUwsFYBHTjGI6wQFnoECAsQAg&usg=AOvVaw1EpElME90-bkMovQgZDQ9W"
+                },
+                {
+                    "title": "Lowering Cholesterol Pictures: 16 Tips to Avoid Heart Disease",
+                    "link": "/url?q=https://www.webmd.com/cholesterol-management/ss/slideshow-lowering-cholesterol&sa=U&ved=2ahUKEwiMmK-t38mHAxUwsFYBHTjGI6wQFnoECAYQAg&usg=AOvVaw3ceNEEj6IgrfcpiR98FQe5"
+                },
+                {
+                    "title": "11 Foods that Lower Cholesterol - Harvard Health Publishing",
+                    "link": "/url?q=https://www.health.harvard.edu/heart-health/11-foods-that-lower-cholesterol&sa=U&ved=2ahUKEwiMmK-t38mHAxUwsFYBHTjGI6wQFnoECAIQAg&usg=AOvVaw1yYbuYCA7rWnmbHDP7rsTk"
+                },
+                {
+                    "title": "How to Lower Cholesterol with Diet - MedlinePlus",
+                    "link": "/url?q=https://medlineplus.gov/howtolowercholesterolwithdiet.html&sa=U&ved=2ahUKEwiMmK-t38mHAxUwsFYBHTjGI6wQFnoECAEQAg&usg=AOvVaw2GO8UV2fO1Y4itBIqrGXVL"
+                },
+                {
+                    "title": "How to lower your cholesterol - - - High cholesterol - NHS",
+                    "link": "/url?q=https://www.nhs.uk/conditions/high-cholesterol/how-to-lower-your-cholesterol/&sa=U&ved=2ahUKEwiMmK-t38mHAxUwsFYBHTjGI6wQFnoECAMQAg&usg=AOvVaw0tMTvyTfPN9EDE0pYNSK3E"
+                },
+                {
+                    "title": "Cholesterol Diet: How Nutrition & Foods Impact Levels",
+                    "link": "/url?q=https://my.clevelandclinic.org/health/articles/16867-cholesterol--nutrition-tlc&sa=U&ved=2ahUKEwiMmK-t38mHAxUwsFYBHTjGI6wQFnoECAcQAg&usg=AOvVaw2HB5jI8J-7zfUR4Ej6EhKV"
+                },
+                {
+                    "title": "Prevention and Treatment of High Cholesterol (Hyperlipidemia)",
+                    "link": "/url?q=https://www.heart.org/en/health-topics/cholesterol/prevention-and-treatment-of-high-cholesterol-hyperlipidemia&sa=U&ved=2ahUKEwiMmK-t38mHAxUwsFYBHTjGI6wQFnoECAgQAg&usg=AOvVaw3gd4CDgW1-lBGjma_kWNAR"
+                },
+                {
+                    "title": "Natural ways to lower cholesterol without medication",
+                    "link": "/url?q=https://www.medicalnewstoday.com/articles/325113&sa=U&ved=2ahUKEwiMmK-t38mHAxUwsFYBHTjGI6wQFnoECAUQAg&usg=AOvVaw3ZSZ_GDxJDEAupo4GqJnmF"
+                }
+            ]
+        },
+        "glucose": {
+            "summary": "Normal glucose level. Your level is 90.0 mg/dL.",
+            "advice": "Monitor your glucose levels regularly. Incorporate foods with a low glycemic index into your diet, such as whole grains, vegetables, and legumes. Regular physical activity can also help manage glucose levels.",
+            "articles": [
+                {
+                    "title": "Healthy blood glucose levels: Targets, extremes, and lifestyle tips",
+                    "link": "/url?q=https://www.medicalnewstoday.com/articles/249413&sa=U&ved=2ahUKEwiP5YOu38mHAxVfslYBHT47GasQFnoECAUQAg&usg=AOvVaw1aiK5SdYwTFML3Z5ICRa6C"
+                }
+            ]
+        },
+        "hemoglobin": {
+            "summary": "Normal hemoglobin level. Your level is 15.0 g/dL.",
+            "advice": "Ensure you have a diet rich in iron, such as lean meats, beans, and spinach. Consider taking iron supplements if recommended by your healthcare provider.",
+            "articles": [
+                {
+                    "title": "How to increase hemoglobin: Home remedies - MedicalNewsToday",
+                    "link": "/url?q=https://www.medicalnewstoday.com/articles/321530&sa=U&ved=2ahUKEwjs4ruu38mHAxWLklYBHVO6DpwQFnoECAkQAg&usg=AOvVaw31iMG3mVCTrUvbIS78162-"
+                },
+                {
+                    "title": "How to Increase Hemoglobin Levels Quickly: Foods & Natural Tips",
+                    "link": "/url?q=https://www.metropolisindia.com/blog/lifestyle/top-foods-that-can-boost-your-hemoglobin-naturally&sa=U&ved=2ahUKEwjs4ruu38mHAxWLklYBHVO6DpwQFnoECAoQAg&usg=AOvVaw15Z35qpuQLLQf0LxqNLaZq"
+                },
+                {
+                    "title": "How to Raise Your Hemoglobin Count - Healthline",
+                    "link": "/url?q=https://www.healthline.com/health/how-to-increase-hemoglobin&sa=U&ved=2ahUKEwjs4ruu38mHAxWLklYBHVO6DpwQFnoECAIQAg&usg=AOvVaw3Eneyuoqw0ZWeIi4bchQjs"
+                },
+                {
+                    "title": "Top Effective Tips to Increase Your Hemoglobin Count Naturally",
+                    "link": "/url?q=https://www.drkarunhematology.com/blog/top-effective-tips-to-increase-your-hemoglobin-count-naturally/&sa=U&ved=2ahUKEwjs4ruu38mHAxWLklYBHVO6DpwQFnoECAcQAg&usg=AOvVaw1zaO6D7KggUadyncbXmHB4"
+                },
+                {
+                    "title": "9 effective tips to increase your hemoglobin levels naturally",
+                    "link": "/url?q=https://www.healthshots.com/how-to/tips-to-increase-hemoglobin-levels/&sa=U&ved=2ahUKEwjs4ruu38mHAxWLklYBHVO6DpwQFnoECAUQAg&usg=AOvVaw1b90iwf3TTXq9afe1x1fkR"
+                },
+                {
+                    "title": "13 Simple Tips To Increase Hemoglobin Count At Home - Lybrate",
+                    "link": "/url?q=https://www.lybrate.com/topic/13-simple-tips-to-increase-hemoglobin-count-at-home/f20b5683d2391cf37abacb6a37416356&sa=U&ved=2ahUKEwjs4ruu38mHAxWLklYBHVO6DpwQFnoECAQQAg&usg=AOvVaw2sMCQTESiARdnErsm1oAzg"
+                },
+                {
+                    "title": "Nutrients Rich Foods to Increase Hemoglobin Count Naturally",
+                    "link": "/url?q=https://www.adityabirlacapital.com/healthinsurance/active-together/2022/09/16/which-foods-can-help-you-improve-your-hemoglobin-count/&sa=U&ved=2ahUKEwjs4ruu38mHAxWLklYBHVO6DpwQFnoECAsQAg&usg=AOvVaw2DmMoWlkylknjQguDkk7md"
+                }
+            ]
+        },
+        "vitamin_d": {
+            "summary": "Low vitamin D levels detected. Your level is 10.0 ng/mL, which is below the normal range (30 - 100 ng/mL).",
+            "advice": "Consider spending more time in sunlight and incorporating vitamin D-rich foods such as fatty fish, cheese, and egg yolks into your diet. Vitamin D supplements may also be beneficial.",
+            "articles": [
+                {
+                    "title": "7 Effective Ways to Increase Your Vitamin D Levels - Healthline",
+                    "link": "/url?q=https://www.healthline.com/nutrition/how-to-increase-vitamin-d&sa=U&ved=2ahUKEwj7oY2v38mHAxVrrVYBHVXWChAQFnoECAkQAg&usg=AOvVaw3_WWVJ-9wgLDjAjCrKXq5P"
+                },
+                {
+                    "title": "9 vitamin D deficiency symptoms (and 11 high vitamin D foods)",
+                    "link": "/url?q=https://www.nebraskamed.com/primary-care/9-vitamin-d-deficiency-symptoms-and-11-high-vitamin-d-foods&sa=U&ved=2ahUKEwj7oY2v38mHAxVrrVYBHVXWChAQFnoECAoQAg&usg=AOvVaw04r430P8d8NC2Y3pbN0tG4"
+                },
+                {
+                    "title": "Vitamin D - NHS",
+                    "link": "/url?q=https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/&sa=U&ved=2ahUKEwj7oY2v38mHAxVrrVYBHVXWChAQFnoECAcQAg&usg=AOvVaw0PeLa5Y---nBPXn_SLflim"
+                },
+                {
+                    "title": "Vitamin D: Benefits, Sources, Deficiencies - Healthline",
+                    "link": "/url?q=https://www.healthline.com/health/food-nutrition/benefits-vitamin-d&sa=U&ved=2ahUKEwj7oY2v38mHAxVrrVYBHVXWChAQFnoECAYQAg&usg=AOvVaw3F_hVdA-wCVPn6ULPMNkQN"
+                },
+                {
+                    "title": "Vitamin D: Benefits, deficiency, sources, and dosage",
+                    "link": "/url?q=https://www.medicalnewstoday.com/articles/161618&sa=U&ved=2ahUKEwj7oY2v38mHAxVrrVYBHVXWChAQFnoECAIQAg&usg=AOvVaw0iCXVwuq2sBDZYxF6XBjul"
+                },
+                {
+                    "title": "10 Benefits of Vitamin D2 and Vitamin D3 - Health",
+                    "link": "/url?q=https://www.health.com/nutrition/vitamins-supplements/vitamin-d-benefits&sa=U&ved=2ahUKEwj7oY2v38mHAxVrrVYBHVXWChAQFnoECAQQAg&usg=AOvVaw1Dr_IQ87hEt2wOCSr5ywuu"
+                },
+                {
+                    "title": "Vitamin D Deficiency: Causes, Symptoms & Health Risks - WebMD",
+                    "link": "/url?q=https://www.webmd.com/diet/vitamin-d-deficiency&sa=U&ved=2ahUKEwj7oY2v38mHAxVrrVYBHVXWChAQFnoECAgQAg&usg=AOvVaw0c_kCOIRZLVrtf0gIdBTsn"
+                },
+                {
+                    "title": "Vitamin D - Mayo Clinic",
+                    "link": "/url?q=https://www.mayoclinic.org/drugs-supplements-vitamin-d/art-20363792&sa=U&ved=2ahUKEwj7oY2v38mHAxVrrVYBHVXWChAQFnoECAMQAg&usg=AOvVaw2qmpwp98Wd5cliIjCNgpja"
+                },
+                {
+                    "title": "Vitamin D - Consumer - NIH Office of Dietary Supplements",
+                    "link": "/url?q=https://ods.od.nih.gov/factsheets/VitaminD-Consumer/&sa=U&ved=2ahUKEwj7oY2v38mHAxVrrVYBHVXWChAQFnoECAsQAg&usg=AOvVaw1Jlhr2dL4SXpe9YtnWNrab"
+                }
+            ]
+        }
+    }
+}
