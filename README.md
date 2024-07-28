@@ -16,3 +16,13 @@ This project uses CrewAI to analyze blood test reports, search for related healt
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+## Requirements
+
+Ensure you have the following dependencies installed:
+
+- Python 3.7 or higher
+- Requests
+- BeautifulSoup4
+
+
