@@ -13,7 +13,6 @@ class WebSearchAgent:
                 articles.append({'title': title, 'link': link})
         return articles
 
-# Example usage:
 if __name__ == "__main__":
     search_agent = WebSearchAgent()
     queries = ['high cholesterol diet recommendations', 'glucose control tips']
