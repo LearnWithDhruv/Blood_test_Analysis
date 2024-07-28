@@ -36,7 +36,9 @@ Ensure you have the following dependencies installed:
 3. Clone the Repository
    ```bash
    python main.py
-
+4. Check the repository
+   ```bash
+   After running the script, check the output/recommendations.json file for the stored findings and recommendations.
 
 
 
