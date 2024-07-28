@@ -25,4 +25,19 @@ Ensure you have the following dependencies installed:
 - Requests
 - BeautifulSoup4
 
+## How to Run the Project
+1. Clone the Repository
+   ```bash
+   git clone https://github.com/LearnWithDhruv/CrewAI_BloodTest_Analyzer.git
+   cd CrewAI_BloodTest_Analyzer
+2. Clone the Repository
+   ```bash
+   Place your sample blood test report in the data directory. Ensure it is named sample_blood_test_report.json
+3. Clone the Repository
+   ```bash
+   python main.py
+
+
+
+
 
